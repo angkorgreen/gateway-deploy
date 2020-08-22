@@ -1,5 +1,7 @@
 # AngkorGreen: Gateway Automatic Deployment
 
+[![Deploy to DigitalOcean](https://github.com/angkorgreen/gateway-deploy/workflows/Deploy%20to%20DigitalOcean/badge.svg)](https://github.com/angkorgreen/gateway-deploy/actions?query=workflow%3A%22Deploy+to+DigitalOcean%22)
+
 ### Deployment Guide
 
 1. [Create a new release](https://github.com/angkorgreen/angkorgreen-api-gateway/releases/new) at [angkorgreen/angkorgreen-api-gateway](https://github.com/angkorgreen/angkorgreen-api-gateway) repository, following the [semver](https://semver.org/) versioning specification.
