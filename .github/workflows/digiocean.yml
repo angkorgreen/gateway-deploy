@@ -6,7 +6,7 @@ on:
 
 jobs:
   deploy:
-    name: Deploy to ${{ secrets.GATEWAY_HOST }}
+    name: Deploy to Droplet
     runs-on: ubuntu-latest
     steps:
     - name: Deploy to Droplet
