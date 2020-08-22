@@ -1,0 +1,21 @@
+name: Deploy to DigitalOcean
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  deploy:
+    name: Deploy to Droplet
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy to Droplet
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.GATEWAY_HOST }}
+        username: ${{ secrets.GATEWAY_USERNAME }}
+        key: ${{ secrets.GATEWAY_KEY }}
+        port: ${{ secrets.GATEWAY_PORT }}
+        script: |
+          cd ${{ secrets.GATEWAY_DEPLOY_DIR }}
+          ./deploy.sh --tag=${{ github.event.release.tag_name }}
