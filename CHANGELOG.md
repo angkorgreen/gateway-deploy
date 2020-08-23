@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.2
+
+Released date: 23-08-2020
+
+- fix(core): add missing ProductPolicy
+- feat(packaging): dependencies update
+- fix(packaging):dependencies re-order
+- feat(core): fix web app manifest icons
+
 ## v1.1.1
 
 Released date: 21-08-2020
