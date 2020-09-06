@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.3
+
+Released date: 06-09-2020
+
+5e7b5657 feat(core): add CalculateSaleReport job and schedule to run daily
+b3ad050f feat(core): dependencies update
+46481021 feat(core): upgraded maatwebsite/excel to v3.1.21
+6acd5dc0 feat(core): update RickAstley.php
+
 ## v1.1.2
 
 Released date: 23-08-2020
