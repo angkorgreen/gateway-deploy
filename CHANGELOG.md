@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.1.4
+
+Released date: 13-09-2020
+
+797d5874 feat(core): jobs for calculate reports
+ee5d6f0b fix(core): fixJobs/Reports/CalculateSalesReport no handler registered
+87ed565e feat(core): add tasg to Jobs/Reports/CreateMonthlyReport
+9734843c feat(common): update .env.example, set default QUEUE_CONNECTION=redis
+9216fe7c fix(core): fix default queue driver, changed to redis
+
+
 ## v1.1.3
 
 Released date: 06-09-2020
