@@ -4,6 +4,10 @@
 
 Released date: 13-09-2020
 
+bac73699 Merge branch 'develop' into master
+ef37042e fix(core): fix OverviewController type
+5dca786a Merge branch 'develop' into master
+0dc0e47e fix(core): fix OverviewController
 72aca273 feat(core): update QRCode preview size
 4dca61c0 feat(core): add feature to download QRCode
 954cca44 Merge branch 'feature/export-report-as-excel' into develop
@@ -14,6 +18,7 @@ cf1e62ad feat(core): add blade template for report
 b6624f6b fix(core): add missing relationship for ReportActivityItem
 8c5d44d6 feat(core): improve ReportRepository@filter method
 1e3bfaff feat(core): add base excel export class
+
 
 ## v1.1.4
 
