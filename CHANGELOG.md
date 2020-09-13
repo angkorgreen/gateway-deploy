@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.6
+
+Released date: 13-09-2020
+
+788fc280 Merge branch 'develop' into master
+c86a95b1 fix(core): fix public product detail page
+1e93bdd6 fix(core): fix Product QRCode issues
+
 ## v1.1.5
 
 Released date: 13-09-2020
@@ -18,7 +26,6 @@ cf1e62ad feat(core): add blade template for report
 b6624f6b fix(core): add missing relationship for ReportActivityItem
 8c5d44d6 feat(core): improve ReportRepository@filter method
 1e3bfaff feat(core): add base excel export class
-
 
 ## v1.1.4
 
