@@ -4,48 +4,48 @@
 
 Released date: 13-09-2020
 
-788fc280 Merge branch 'develop' into master
-c86a95b1 fix(core): fix public product detail page
-1e93bdd6 fix(core): fix Product QRCode issues
+- 788fc280 Merge branch 'develop' into master
+- c86a95b1 fix(core): fix public product detail page
+- 1e93bdd6 fix(core): fix Product QRCode issues
 
 ## v1.1.5
 
 Released date: 13-09-2020
 
-bac73699 Merge branch 'develop' into master
-ef37042e fix(core): fix OverviewController type
-5dca786a Merge branch 'develop' into master
-0dc0e47e fix(core): fix OverviewController
-72aca273 feat(core): update QRCode preview size
-4dca61c0 feat(core): add feature to download QRCode
-954cca44 Merge branch 'feature/export-report-as-excel' into develop
-2260a69f feat(core): fix Overview wrong sales report calculation
-e83f8f1f Merge branch 'develop' into feature/export-report-as-excel
-2978ddaf feat(core): add export method to ReportController.php
-cf1e62ad feat(core): add blade template for report
-b6624f6b fix(core): add missing relationship for ReportActivityItem
-8c5d44d6 feat(core): improve ReportRepository@filter method
-1e3bfaff feat(core): add base excel export class
+- bac73699 Merge branch 'develop' into master
+- ef37042e fix(core): fix OverviewController type
+- 5dca786a Merge branch 'develop' into master
+- 0dc0e47e fix(core): fix OverviewController
+- 72aca273 feat(core): update QRCode preview size
+- 4dca61c0 feat(core): add feature to download QRCode
+- 954cca44 Merge branch 'feature/export-report-as-excel' into develop
+- 2260a69f feat(core): fix Overview wrong sales report calculation
+- e83f8f1f Merge branch 'develop' into feature/export-report-as-excel
+- 2978ddaf feat(core): add export method to ReportController.php
+- cf1e62ad feat(core): add blade template for report
+- b6624f6b fix(core): add missing relationship for ReportActivityItem
+- 8c5d44d6 feat(core): improve ReportRepository@filter method
+- 1e3bfaff feat(core): add base excel export class
 
 ## v1.1.4
 
 Released date: 13-09-2020
 
-797d5874 feat(core): jobs for calculate reports
-ee5d6f0b fix(core): fixJobs/Reports/CalculateSalesReport no handler registered
-87ed565e feat(core): add tasg to Jobs/Reports/CreateMonthlyReport
-9734843c feat(common): update .env.example, set default QUEUE_CONNECTION=redis
-9216fe7c fix(core): fix default queue driver, changed to redis
+- 797d5874 feat(core): jobs for calculate reports
+- ee5d6f0b fix(core): fixJobs/Reports/CalculateSalesReport no handler registered
+- 87ed565e feat(core): add tasg to Jobs/Reports/CreateMonthlyReport
+- 9734843c feat(common): update .env.example, set default QUEUE_CONNECTION=redis
+- 9216fe7c fix(core): fix default queue driver, changed to redis
 
 
 ## v1.1.3
 
 Released date: 06-09-2020
 
-5e7b5657 feat(core): add CalculateSaleReport job and schedule to run daily
-b3ad050f feat(core): dependencies update
-46481021 feat(core): upgraded maatwebsite/excel to v3.1.21
-6acd5dc0 feat(core): update RickAstley.php
+- 5e7b5657 feat(core): add CalculateSaleReport job and schedule to run daily
+- b3ad050f feat(core): dependencies update
+- 46481021 feat(core): upgraded maatwebsite/excel to v3.1.21
+- 6acd5dc0 feat(core): update RickAstley.php
 
 ## v1.1.2
 
