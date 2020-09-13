@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.1.5
+
+Released date: 13-09-2020
+
+72aca273 feat(core): update QRCode preview size
+4dca61c0 feat(core): add feature to download QRCode
+954cca44 Merge branch 'feature/export-report-as-excel' into develop
+2260a69f feat(core): fix Overview wrong sales report calculation
+e83f8f1f Merge branch 'develop' into feature/export-report-as-excel
+2978ddaf feat(core): add export method to ReportController.php
+cf1e62ad feat(core): add blade template for report
+b6624f6b fix(core): add missing relationship for ReportActivityItem
+8c5d44d6 feat(core): improve ReportRepository@filter method
+1e3bfaff feat(core): add base excel export class
+
 ## v1.1.4
 
 Released date: 13-09-2020
