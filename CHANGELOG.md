@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.7
+
+Released date: 27-09-2020
+
+- e0ea843 feat(core): add Dependabot to automatically updates the packages
+- a9fcee4 fix(core): fix Department not showing director name
+- 788fc28 Merge branch 'develop' into master
+
 ## v1.1.6
 
 Released date: 13-09-2020
