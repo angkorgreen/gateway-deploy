@@ -1,5 +1,27 @@
 # Changelog
 
+## v1.1.8
+
+Released date: 26-10-2020
+
+- 6aa4889b fix(core): fix MobileAuthenticateMiddleware
+- 21a5eb86 Merge pull request #13 from angkorgreen/dependabot/npm_and_yarn/prettier-2.1.2
+- 31d350e0 Merge pull request #10 from angkorgreen/dependabot/npm_and_yarn/casl/ability-4.1.6
+- 7eb34364 feat(core): supplement update to casl/ability
+- e75e1699 Merge branch 'master' into develop
+- 2851cbb6 Merge pull request #14 from angkorgreen/dependabot/composer/doctrine/dbal-2.10.4
+- f1586e2f build(deps): bump doctrine/dbal from 2.10.2 to 2.10.4
+- 7ba425bb Merge pull request #15 from angkorgreen/dependabot/composer/laravel/telescope-3.5.1
+- 64e4f99b build(deps): bump laravel/telescope from 2.1.7 to 3.5.1
+- 816d5e26 Merge pull request #16 from angkorgreen/dependabot/composer/propaganistas/laravel-phone-4.2.5
+- b3312973 Merge pull request #17 from angkorgreen/dependabot/composer/laravel-notification-channels/webpush-5.0.3
+- d97924b4 Merge pull request #18 from angkorgreen/dependabot/composer/laravel/tinker-2.4.2
+- af8667c5 build(deps): bump laravel/tinker from 1.0.10 to 2.4.2
+- 8b5c2142 build(deps): bump laravel-notification-channels/webpush
+- a836d1fd build(deps): bump propaganistas/laravel-phone from 4.2.4 to 4.2.5
+- 978014d0 build(deps-dev): bump prettier from 1.19.1 to 2.1.2
+- a7342d51 build(deps): bump @casl/ability from 3.4.0 to 4.1.6
+
 ## v1.1.7
 
 Released date: 27-09-2020
