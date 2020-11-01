@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.9
+
+Released date: 1-11-2020
+
+f74fddc8 fix(core): add backward compatibility to to_casl method
+
 ## v1.1.8
 
 Released date: 26-10-2020
