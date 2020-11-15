@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.2.0
+
+Released date: 15-11-2020
+
+- fd5ad2a4 Merge pull request #42 from angkorgreen/feature/revise-report-detail
+- cbbb0edb fix: edit report callback
+- 8a1b0f12 fix: nameln mixin
+- acc377ef feat: update .editorconfig
+- 5d29fa23 feat: add MonthlyReport card for list report by year
+- 5a24e5c6 draft: new report detail dialog
+- 46998181 feat: disable autocomplete and remove email field from create/update farmer/retailer
+
+
 ## v1.1.9
 
 Released date: 1-11-2020
