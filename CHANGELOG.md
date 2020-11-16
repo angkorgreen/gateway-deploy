@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.2.1
+
+Released date: 16-11-2020
+
+- b6fddd5e feat(packaging): release v1.2.1
+- 310aeb9c feat: add .yarnrc
+- 010729e4 feat: update package.json
+- bb5b1bb8 fix: create/update retailer/farmer form autocomplete
+
 ## v1.2.0
 
 Released date: 15-11-2020
