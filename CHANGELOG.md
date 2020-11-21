@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.2.2
+
+Released date: 21-11-2020
+
+- 69f4c64c feat(packaging): release v1.2.2
+- d995390c Merge pull request #45 from angkorgreen/feature/maintenance-phase-1
+- f6dffebb feat: automatically format phone number for users list
+- 32ff7628 feat: add PhoneNumber::format method
+- f7a21c3b fix: create/update staff/farmer/retailer turnoff autocomplete
+- dea9fc51 feat: sanatize phone number when create/update staff/farmer/retailer user
+- c68c6f41 feat: add PhoneNumber util
+- b1b57455 feat: install giggsey/libphonenumber-for-php
+- 60398761 feat: add console command to fix users phone number
+
+
 ## v1.2.1
 
 Released date: 16-11-2020
