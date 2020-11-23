@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.3.0
+
+Released date: 23-11-2020
+
+- c9871cdf feat(packaging): release v1.3.0
+- a477176d Merge pull request #47 from angkorgreen/hotfix/fix-mobile-login
+- 2a90b475 feat: core add hash users password command
+- e2bfbd2c fix: encrypt password when create/update retailer user
+- 24eac9be fix: encrypt password when create/update farmer user
+- e14cdfac fix: mobile login error cause logout event lock
+
 ## v1.2.2
 
 Released date: 21-11-2020
