@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.4.0
+
+Released date: 07-12-2020
+
+- 905efe8a feat(packaging): release v1.4.0
+- c51a2182 feat: remove report from retailer
+- d067bfcf feat: drop default permissions from staff role
+
+
 ## v1.3.0
 
 Released date: 23-11-2020
