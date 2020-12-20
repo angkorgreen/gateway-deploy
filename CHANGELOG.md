@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.5.0
+
+Released date: 20-12-2020
+
+- 8481ebe9 feat(packaging): release v1.5.0
+- 9acaea2f Merge pull request #49 from angkorgreen/feature/resolve-issuse-with-mobile-login
+- 5020b698 feat: add command to ensure user role is correctly assigned
+- f77af1bb feat: implicit assign user framer/retailer when creating user
+
+
 ## v1.4.0
 
 Released date: 07-12-2020
